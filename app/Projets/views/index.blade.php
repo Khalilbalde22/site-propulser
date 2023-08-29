@@ -8,10 +8,10 @@
         <div class="row">
             <div class="col-12">
                 <div class="breadcrumb-wrapper">
-                    <h1>Project</h1>
+                    <h1>Projets</h1>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li>Project</li>
+                        <li><a href="index.html">Accueil</a></li>
+                        <li>Projets</li>
                     </ul>
                 </div>
             </div>
@@ -26,11 +26,11 @@
             <div class="col-12">
                 <div class="project-tab">
                     <ul class="project-filter-tab">
-                        <li class="active" data-filter="*">All</li>
+                        <li class="active" data-filter="*">Tout</li>
                         <li data-filter=".uiux">UI/UX</li>
                         <li data-filter=".web">Web Design</li>
-                        <li data-filter=".developing">Developing</li>
-                        <li data-filter=".graphics">Graphic Design</li>
+                        <li data-filter=".developing">Developpement</li>
+                        <li data-filter=".graphics">Design graphic</li>
                     </ul>
                 </div>
             </div>

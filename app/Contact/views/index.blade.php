@@ -78,6 +78,7 @@
                                 </div>
                                 <div class="col-xl-6">
                                     <input type="text" name="sujet" placeholder="Object">
+                                    <input type="text" name="subject" placeholder="Objet">
                                 </div>
                                 <div class="col-12">
                                     <textarea name="message" cols="30" rows="10" placeholder="Votre message"></textarea>
@@ -100,7 +101,7 @@
     </div>
 </section>
 
-
+ 
 <section class="lets-talk sec-pad">
     <div class="container">
         <div class="row align-items-center">

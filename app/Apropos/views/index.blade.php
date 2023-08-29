@@ -29,11 +29,7 @@
                         <div class="office-group-img">
                             <img src="assets/img/story.png" alt>
                             <div class="cto-message-wrapper">
-                                <div class="cto-message">
-                                    <p>Integer purus odio, placerat neclessi rhoncus in, ullamcorper nec dolor.ol aptent taciti sociosqu.</p>
-                                    <h4>Carlo Rabil. <span>CTO & FOUNDER, Finibus</span></h4>
-                                    <img src="assets/img/cto-signature.png" alt>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -47,16 +43,16 @@
                         <p>Découvrez notre agence créative qui se consacre à la création de designs magnifiques et uniques pour propulser votre projet. Avec notre expertise en design et notre engagement envers l'innovation, nous sommes prêts à donner vie à vos idées et à les transformer en une réalité visuellement captivante. Faites équipe avec nous pour un voyage créatif exceptionnel et laissez votre projet briller sous les feux de la créativité.</p>
                         <div class="story-skills">
                             <div class="story-skill">
-                                <div class="progress-bar-circle" data-percent="90" data-duration="1000"></div>
-                                <span>Idea & Research</span>
+                                <div class="progress-bar-circle" data-percent="80" data-duration="1000"></div>
+                                <span>créativité</span>
                             </div>
                             <div class="story-skill">
-                                <div class="progress-bar-circle" data-percent="95" data-duration="1000"></div>
-                                <span>Wirfirm & Design</span>
+                                <div class="progress-bar-circle" data-percent="100" data-duration="1000"></div>
+                                <span>Annalyse</span>
                             </div>
                             <div class="story-skill">
-                                <div class="progress-bar-circle" data-percent="85" data-duration="1000"></div>
-                                <span>Developing & Launch</span>
+                                <div class="progress-bar-circle" data-percent="80" data-duration="1000"></div>
+                                <span>Solution</span>
                             </div>
                         </div>
                     </div>
@@ -97,17 +93,17 @@
                         </div>
                         <div class="about-skills">
                             <div class="signle-skill">
-                                <div class="progress-bar-circle" data-percent="90" data-duration="1000"></div>
+                                <div class="progress-bar-circle" data-percent="80" data-duration="1000"></div>
                                 <div class="skill-content">
-                                    <h6>web</h6>
-                                    <p>Clean Design</p>
+                                    <h6>Developpement web</h6>
+                                    <p></p>
                                 </div>
                             </div>
                             <div class="signle-skill">
                                 <div class="progress-bar-circle" data-percent="85" data-duration="1000"></div>
                                 <div class="skill-content">
-                                    <h6>App</h6>
-                                    <p>Developing</p>
+                                    <h6>Design</h6>
+                                    <p></p>
                                 </div>
                             </div>
                         </div>
@@ -115,50 +111,11 @@
                 </div>
             </div>
         </div>
-        <div class="features-count">
-            <div class="row">
-                <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3">
-                    <div class="single-count">
-                        <i><img src="assets/img/icons/count-1.png" alt></i>
-                        <div class="counter">
-                            <span class="odometer">150</span><sup>+</sup>
-                        </div>
-                        <p>Project Completed</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3">
-                    <div class="single-count">
-                        <i><img src="assets/img/icons/count-2.png" alt></i>
-                        <div class="counter">
-                            <span class="odometer">250</span><sup>+</sup>
-                        </div>
-                        <p>Satisfied Clients</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3">
-                    <div class="single-count">
-                        <i><img src="assets/img/icons/count-3.png" alt></i>
-                        <div class="counter">
-                            <span class="odometer">150</span><sup>+</sup>
-                        </div>
-                        <p>Expert Teams</p>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3">
-                    <div class="single-count">
-                        <i><img src="assets/img/icons/count-4.png" alt></i>
-                        <div class="counter">
-                            <span class="odometer">28</span><sup>+</sup>
-                        </div>
-                        <p>Win Awards</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </div>
 </section>
 
-
+<!-- ssection temoignage -->
 <section class="testimonial-area">
     <div class="container">
         <div class="row">
@@ -247,6 +204,8 @@
     </div>
 </section>
 
+<!-- Section appel a l'action -->
+
 <section class="why-choose-us sec-mar">
     <div class="container">
         <div class="row">
@@ -298,6 +257,8 @@
         </div>
     </div>
 </section>
+<!-- section Blog -->
+
 <section class="latest-news sec-mar">
     <div class="container">
         <div class="row gx-4">
@@ -356,9 +317,9 @@
             <div class="col-md-6 col-lg-4 col-xl-4">
                 <div class="title black">
                     <span>Blog</span>
-                    <h2>Latest news And Article modern design.</h2>
+                    <h2>Trouvez tout nos articles en cliquant sur le lien</h2>
                     <div class="cmn-btn">
-                        <a href="blog.html">View All Blog</a>
+                        <a href="blog.html">Voir autres article </a>
                     </div>
                 </div>
             </div>
@@ -366,6 +327,7 @@
     </div>
 </section>
 
+<!-- Appel action -->
 
 <section class="lets-talk sec-pad">
     <div class="container">

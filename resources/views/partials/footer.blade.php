@@ -81,14 +81,7 @@
                                 propulser</a></span>
                     </div>
                 </div>
-                <div class="col-12 col-md-8 col-lg-8 col-xl-7">
-                    <ul class="footer-bottom-menu">
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Terms of Use</a></li>
-                        <li><a href="#">Support Policy</a></li>
-                        <li><a href="#">Terms of Service</a></li>
-                    </ul>
-                </div>
+               
             </div>
         </div>
     </div>

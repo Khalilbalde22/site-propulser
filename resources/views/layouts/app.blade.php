@@ -25,9 +25,6 @@
 
     <div class="main">
 
-
-
-
         <header class="position_top">
             <div class="container-fluid">
                 <div class="row align-items-center">

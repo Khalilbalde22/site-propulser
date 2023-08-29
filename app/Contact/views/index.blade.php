@@ -67,16 +67,17 @@
                 <div class="col-lg-6 col-xl-6">
                     <div class="contact-form">
                         <h3>Pour plus d'infos </h3>
-                        <form id="contact-form" action="https://demo-egenslab.b-cdn.net/html/finibus/demo/mail.php" method="POST">
+                        <form id="contact-form" action="{{ route('contact.submit') }}" method="POST">
+                            @csrf
                             <div class="row">
                                 <div class="col-12">
-                                    <input type="text" name="name" placeholder="Entrez votre nom">
+                                    <input type="text" name="nom" placeholder="Entrez votre nom">
                                 </div>
                                 <div class="col-xl-6">
                                     <input type="email" name="email" placeholder="Entrez votre mail">
                                 </div>
                                 <div class="col-xl-6">
-                                    <input type="text" name="subject" placeholder="Object">
+                                    <input type="text" name="sujet" placeholder="Object">
                                 </div>
                                 <div class="col-12">
                                     <textarea name="message" cols="30" rows="10" placeholder="Votre message"></textarea>

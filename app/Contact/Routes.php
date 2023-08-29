@@ -2,4 +2,5 @@
 
 use App\Contact\ContactsController;
 
-Route::resource('contact', ContactsController::class);
+Route::get('/contact', [ContactsController::class, 'index'])->name('contact.index');
+Route::post('/contact', [ContactsController::class, 'submit'])->name('contact.submit');

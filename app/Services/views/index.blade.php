@@ -23,13 +23,13 @@
 
 <section class="service-area sec-pad">
     <div class="container">
-        <div class="row g-4">
+        <div class="row">
             <div class="col-md-12 col-lg-4 col-xl-4">
                 <div class="title">
-                    <span>what we do</span>
-                    <h2>we work performed for client happy.</h2>
+                    <span>Ce que nous faisons </span>
+                    <h2>Nous travaillons pour rendre nos clients heureux !</h2>
                     <div class="cmn-btn">
-                        <a href="services.html">view all services</a>
+                        <a href="services.html">Voir nos projets +</a>
                     </div>
                 </div>
             </div>
@@ -42,9 +42,9 @@
                                 <i><img src="assets/img/icons/service-icon-1.png" alt></i>
                             </div>
                             <div class="service-content">
-                                <h4>web design</h4>
-                                <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
-                                <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <h4>Developpement web</h4>
+                                <p>Fusce ornare mauris nisi, id fringilla turpis vehicula justo lectus, ultricies nec sem</p>
+                                <a href="services.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>
@@ -55,8 +55,8 @@
                                 <i><img src="assets/img/icons/service-icon-2.png" alt></i>
                             </div>
                             <div class="service-content">
-                                <h4>App design</h4>
-                                <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                                <h4>Design graphic </h4>
+                                <p>Maecenas ut est in ante imperdiet laoreet eu quis vehicula justo elit Phasellus Door</p>
                                 <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
@@ -68,8 +68,8 @@
                                 <i><img src="assets/img/icons/service-icon-3.png" alt></i>
                             </div>
                             <div class="service-content">
-                                <h4>Developing</h4>
-                                <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                                <h4>Marketing</h4>
+                                <p>Etiam eu ullamcorper ipsum. Pellentesque eu ipsum luctus libero euismod</p>
                                 <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
@@ -81,50 +81,11 @@
                                 <i><img src="assets/img/icons/service-icon-4.png" alt></i>
                             </div>
                             <div class="service-content">
-                                <h4>Graphic design</h4>
-                                <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
+                                <h4>SEO</h4>
+                                <p>Quisque in massa nunc. Etiam blandit tortor nisl, auctor vulputate felis convallis at.</p>
                                 <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 col-xl-4">
-                <div class="single-service">
-                    <span class="count">05</span>
-                    <div class="service-icon">
-                        <i><img src="assets/img/icons/service-icon-5.png" alt></i>
-                    </div>
-                    <div class="service-content">
-                        <h4>Video Animation</h4>
-                        <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
-                        <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 col-xl-4">
-                <div class="single-service">
-                    <span class="count">06</span>
-                    <div class="service-icon">
-                        <i><img src="assets/img/icons/service-icon-6.png" alt></i>
-                    </div>
-                    <div class="service-content">
-                        <h4>3D Design</h4>
-                        <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
-                        <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 col-xl-4">
-                <div class="single-service">
-                    <span class="count">07</span>
-                    <div class="service-icon">
-                        <i><img src="assets/img/icons/service-icon-7.png" alt></i>
-                    </div>
-                    <div class="service-content">
-                        <h4>UI/UX Design</h4>
-                        <p>interger purus adio, placerat ni in, ullamcorper nec dolor.</p>
-                        <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                     </div>
                 </div>
             </div>
@@ -138,8 +99,8 @@
         <div class="row">
             <div class="col-md-8 col-xl-4">
                 <div class="title black">
-                    <span>How We Work</span>
-                    <h2>Our Unique Work Process.</h2>
+                    <span>Comment nous travaillons </span>
+                    <h2>Notre processus de travail unique.</h2>
                 </div>
             </div>
         </div>
@@ -149,10 +110,28 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="work-process-wrapper">
-                                <img src="assets/img/work-process-slider-1.png" alt>
+                                <img src="assets/img/etude.png" alt>
                                 <div class="work-process-inner">
                                     <b>01</b>
-                                    <h4>Brainstorm & Wirefirm</h4>
+                                    <h4>Etude du projet</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="work-process-wrapper">
+                                <img src="assets/img/work-process-slider-1.png" alt>
+                                <div class="work-process-inner">
+                                    <b>02</b>
+                                    <h4>Prototypage</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="work-process-wrapper">
+                                <img src="assets/img/developemet.png" alt>
+                                <div class="work-process-inner">
+                                    <b>03</b>
+                                    <h4>Developpement</h4>
                                 </div>
                             </div>
                         </div>
@@ -160,8 +139,17 @@
                             <div class="work-process-wrapper">
                                 <img src="assets/img/work-process-slider-2.jpg" alt>
                                 <div class="work-process-inner">
-                                    <b>02</b>
-                                    <h4>Brainstorm & Wirefirm</h4>
+                                    <b>04</b>
+                                    <h4>Teste</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="work-process-wrapper">
+                                <img src="assets/img/livraison1.png" alt>
+                                <div class="work-process-inner">
+                                    <b>05</b>
+                                    <h4>Livraison</h4>
                                 </div>
                             </div>
                         </div>
@@ -181,17 +169,17 @@
             <div class="col-12 col-lg-6 col-xl-5 or2">
                 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Pay Monthly</button>
+                        <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Mensuel</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Pay Yearly</button>
+                        <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Annuelle</button>
                     </li>
                 </ul>
             </div>
             <div class="col-12 col-lg-6 col-xl-5 or1">
                 <div class="title black">
-                    <span>Pricing Plan</span>
-                    <h2>Join Now For Your Business.</h2>
+                    <span>Nos plans tarification</span>
+                    <h2>Rejoignez-nous maintenant pour votre entreprise.</h2>
                 </div>
             </div>
         </div>
@@ -316,14 +304,14 @@
         <div class="row align-items-center">
             <div class="col-md-9 col-lg-8 col-xl-7">
                 <div class="title special">
-                    <span>Let’s Talk</span>
-                    <h2>About Your Next <br><b>Project</b> Your Mind</h2>
+                    <span>Parlons </span>
+                    <h2>A propos de votre futur <br><b>Projet</b> votre esprit</h2>
                 </div>
             </div>
             <div class="col-md-3 col-lg-4 col-xl-5 text-end">
                 <div class="getin-touch">
                     <div class="cmn-btn">
-                        <a href="contact.html">Get In Touch</a>
+                        <a href="contact.html">Prendre contact ?</a>
                     </div>
                 </div>
             </div>

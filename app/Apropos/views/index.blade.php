@@ -29,11 +29,7 @@
                         <div class="office-group-img">
                             <img src="assets/img/story.png" alt>
                             <div class="cto-message-wrapper">
-                                <div class="cto-message">
-                                    <p>Integer purus odio, placerat neclessi rhoncus in, ullamcorper nec dolor.ol aptent taciti sociosqu.</p>
-                                    <h4>Carlo Rabil. <span>CTO & FOUNDER, Finibus</span></h4>
-                                    <img src="assets/img/cto-signature.png" alt>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -356,9 +352,9 @@
             <div class="col-md-6 col-lg-4 col-xl-4">
                 <div class="title black">
                     <span>Blog</span>
-                    <h2>Latest news And Article modern design.</h2>
+                    <h2>Trouvez tout nos articles en cliquant sur le lien</h2>
                     <div class="cmn-btn">
-                        <a href="blog.html">View All Blog</a>
+                        <a href="blog.html">Voir autres article </a>
                     </div>
                 </div>
             </div>

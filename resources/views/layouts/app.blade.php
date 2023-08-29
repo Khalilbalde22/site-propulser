@@ -49,29 +49,13 @@
                                 <li><a href="{{ route('apropos.index') }}">Apropos</a></li>
                                 <li class="has-child">
                                     <a href="{{ route('services.index') }}">Services</a>
-                                    <i class="bi bi-chevron-down"></i>
-                                    <ul class="sub-menu">
-                                        <li><a href="{{ route('services.index') }}">Service</a></li>
-                                        <li><a href="service-details.html">Service Details</a></li>
-                                    </ul>
                                 </li>
                                 <li class="has-child">
                                     <a href="{{ route('projets.index') }}">Projets</a>
-                                    <i class="bi bi-chevron-down"></i>
-                                    <ul class="sub-menu">
-                                        <li><a href="{{ route('projets.index') }}">Projets</a></li>
-                                        <li><a href="project2.html">Projet masonry</a></li>
-                                        <li><a href="project-details.html"> Details projets</a></li>
-                                    </ul>
+                                    
                                 </li>
                                 <li class="has-child">
                                     <a href="blog.html">Blogs</a>
-                                    <i class="bi bi-chevron-down"></i>
-                                    <ul class="sub-menu">
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="blog2.html">Blog standard</a></li>
-                                        <li><a href="blog_details.html">Blog Details</a></li>
-                                    </ul>
                                 </li>
 
                                 <li><a href="{{ route('contact.index') }}">Contact </a></li>

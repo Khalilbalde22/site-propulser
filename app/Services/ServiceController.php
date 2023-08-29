@@ -15,6 +15,23 @@ class ServiceController extends Controller
         return view('Services::index');
     }
 
+    public function detailsWeb()
+    {
+        return view('Services::detailsWeb');
+    }
+    public function detailsDesign()
+    {
+        return view('Services::detailsDesign');
+    }
+    public function detailsMarketing()
+    {
+        return view('Services::detailsMarketing');
+    }
+    public function detailsSeo()
+    {
+        return view('Services::detailsSeo');
+    }
+
     /**
      * Show the form for creating a new resource.
      */

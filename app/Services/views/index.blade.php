@@ -44,7 +44,7 @@
                             <div class="service-content">
                                 <h4>Developpement web</h4>
                                 <p>Création professionnelle de sites web captivants pour présenter vos services avec impact.</p>
-                                <a href="services.html">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <a href="{{ route('services.detailsWeb') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                             <div class="service-content">
                                 <h4>Design graphic </h4>
                                 <p>Conception visuelle remarquable pour donner vie à votre identité et messages uniques.</p>
-                                <a href="service-details.html">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <a href="{{ route('services.detailsDesign') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>
@@ -70,7 +70,7 @@
                             <div class="service-content">
                                 <h4>Marketing</h4>
                                 <p>Stratégies numériques puissantes pour stimuler la croissance et maximiser la visibilité en ligne.</p>
-                                <a href="service-details.html">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <a href="{{ route('services.detailsMarketing') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                             <div class="service-content">
                                 <h4>SEO</h4>
                                 <p>Optimisation ciblée pour propulser votre site en tête des résultats de recherche.</p>
-                                <a href="service-details.html">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <a href="{{ route('services.detailsSeo') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>

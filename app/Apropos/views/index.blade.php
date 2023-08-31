@@ -80,7 +80,7 @@
                         </div>
                     </div>
                     <div class="cmn-btn">
-                        <a href="about.html">Voir plus </a>
+                        <a href="{{ route('contact.index') }}">Avoir un devis ? </a>
                     </div>
                 </div>
             </div>

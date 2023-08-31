@@ -115,8 +115,8 @@
                             </div>
                             <div class="service-content">
                                 <h4>Developpement web</h4>
-                                <p>Fusce ornare mauris nisi, id fringilla turpis vehicula justo lectus, ultricies nec sem</p>
-                                <a href="services.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <p>Création professionnelle de sites web captivants pour présenter vos services avec impact.</p>
+                                <a href="{{ route('services.detailsWeb') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>
@@ -128,8 +128,8 @@
                             </div>
                             <div class="service-content">
                                 <h4>Design graphic </h4>
-                                <p>Maecenas ut est in ante imperdiet laoreet eu quis vehicula justo elit Phasellus Door</p>
-                                <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <p>Conception visuelle remarquable pour donner vie à votre identité et messages uniques.</p>
+                                <a href="{{ route('services.detailsDesign') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>
@@ -141,8 +141,8 @@
                             </div>
                             <div class="service-content">
                                 <h4>Marketing</h4>
-                                <p>Etiam eu ullamcorper ipsum. Pellentesque eu ipsum luctus libero euismod</p>
-                                <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <p>Stratégies numériques puissantes pour stimuler la croissance et maximiser la visibilité en ligne.</p>
+                                <a href="{{ route('services.detailsMarketing') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>
@@ -154,8 +154,8 @@
                             </div>
                             <div class="service-content">
                                 <h4>SEO</h4>
-                                <p>Quisque in massa nunc. Etiam blandit tortor nisl, auctor vulputate felis convallis at.</p>
-                                <a href="service-details.html">read more<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
+                                <p>Optimisation ciblée pour propulser votre site en tête des résultats de recherche.</p>
+                                <a href="{{ route('services.detailsSeo') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
                         </div>
                     </div>
@@ -164,6 +164,7 @@
         </div>
     </div>
 </section>
+
 
 
 <section class="about-area sec-mar">

@@ -55,7 +55,7 @@
                                 <i><img src="assets/img/icons/service-icon-2.png" alt></i>
                             </div>
                             <div class="service-content">
-                                <h4>Design graphic </h4>
+                                <h4>Design graphique </h4>
                                 <p>Conception visuelle remarquable pour donner vie à votre identité et messages uniques.</p>
                                 <a href="{{ route('services.detailsDesign') }}">Voir plus<i><img src="assets/img/icons/arrow-circle.png" alt></i></a>
                             </div>
